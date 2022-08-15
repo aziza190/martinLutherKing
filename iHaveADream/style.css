@@ -6,3 +6,8 @@ p {
 body{
     background-color: blueviolet;
 }
+img{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: #1E8BB3;
+}
