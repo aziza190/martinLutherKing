@@ -1,10 +1,17 @@
 p {
     font-family: 'Oleo Script Swash Caps', cursive;
+    color: white;
+
+}
+
+th{
+    font-family: 'Oleo Script Swash Caps', cursive;
 
 }
 
 body{
-    background-color: blueviolet;
+    background-color: purple;
+    color: white;
 }
 img{
     border-width: 5px;
